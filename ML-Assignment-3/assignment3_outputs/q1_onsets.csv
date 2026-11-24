@@ -1,0 +1,4 @@
+rise_pp,clean_validation_epoch,wrong_label_epoch,ordering
+5,1,1,both crossed in the same epoch
+10,1,2,validation improved first
+15,2,2,both crossed in the same epoch

@@ -1,0 +1,5 @@
+fixed_cnn_input,test_mse_to_clean,test_correct,test_cnn_accuracy
+Clean input,0.0,5900,0.59
+Corrupted input,0.04839001037279765,4734,0.4734
+Clean AE reconstruction,0.01445174419482549,3768,0.3768
+Denoising AE reconstruction,0.013140897409121196,3916,0.3916

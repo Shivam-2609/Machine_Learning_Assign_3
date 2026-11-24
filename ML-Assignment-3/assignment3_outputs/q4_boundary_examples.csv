@@ -1,0 +1,13 @@
+pair,split,position,truth,score,test_prediction
+deer / frog,train,4040,deer,-0.007429864427756061,
+deer / frog,test,223,deer,-3.906128756259175e-05,frog
+deer / frog,train,38249,frog,-0.0019129824060079015,
+deer / frog,test,7983,frog,-0.001425091451853322,bird
+bird / deer,train,18986,bird,0.0027658545547351587,
+bird / deer,test,8967,bird,-0.00019428835233042951,truck
+bird / deer,train,15400,deer,-0.003011117949822617,
+bird / deer,test,3016,deer,-0.0011999946622682223,deer
+automobile / truck,train,16818,automobile,-0.008761691573723196,
+automobile / truck,test,6104,automobile,-0.0004911026184231115,deer
+automobile / truck,train,42620,truck,-0.036198504036939694,
+automobile / truck,test,5902,truck,3.104485556382208e-05,ship

@@ -1,0 +1,4 @@
+pair,first_as_second,second_as_first,wrong_side_of_pair_boundary,near_quarter_multiclass_error,whole_pair_multiclass_error,closer_to_other_class_centroid
+deer / frog,194,166,0.3065,0.642,0.605,0.416
+bird / deer,202,146,0.404,0.74,0.7065,0.418
+automobile / truck,190,144,0.352,0.762,0.669,0.3685

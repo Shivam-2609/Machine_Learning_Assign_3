@@ -1,0 +1,3 @@
+run,parameters,clean_test_accuracy,mirrored_test_accuracy,flip_disagreement
+mlp_clean,74002,0.4651,0.4625,0.2858
+mlp_reflection,74002,0.4761,0.4725,0.1911

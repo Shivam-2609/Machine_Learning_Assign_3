@@ -1,0 +1,7 @@
+method,k,occupied_validation_clusters,validation_silhouette
+mini-batch,6,6,0.13985858857631683
+bisecting,6,6,0.08315951377153397
+mini-batch,10,10,0.12400670349597931
+bisecting,10,10,0.08407669514417648
+mini-batch,15,15,0.11081317812204361
+bisecting,15,15,0.07077692449092865

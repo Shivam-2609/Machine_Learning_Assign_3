@@ -1,0 +1,8 @@
+run,family,input,reflection_augmentation,parameters,selected_epoch,validation_accuracy
+mlp_clean,MLP,clean,False,74002,6,0.4572
+mlp_reflection,MLP,clean,True,74002,8,0.4628
+cnn_clean,CNN,clean,False,72810,8,0.5864
+mlp_pixels,MLP,pixels,False,74002,8,0.4606
+cnn_pixels,CNN,pixels,False,72810,8,0.4676
+mlp_blocks,MLP,blocks,False,74002,6,0.4584
+cnn_blocks,CNN,blocks,False,72810,8,0.5608

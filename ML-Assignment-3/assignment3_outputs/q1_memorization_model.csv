@@ -1,0 +1,2 @@
+hidden_units,parameters,training_examples,changed_labels,validation_examples
+256,789258,1600,640,1000

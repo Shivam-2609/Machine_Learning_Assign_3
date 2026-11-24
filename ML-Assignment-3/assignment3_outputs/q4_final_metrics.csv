@@ -1,0 +1,2 @@
+kernel,C,SVM_test_accuracy,cluster_method,k,test_ARI,test_NMI,train_mapped_cluster_test_accuracy
+poly,10.0,0.3249,mini-batch,6,0.03710399432373874,0.07090535081050774,0.1974

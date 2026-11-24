@@ -1,0 +1,4 @@
+bottleneck,selected_in_q3a,test_reconstruction_mse,test_probe_accuracy
+8,False,0.024533857560157777,0.295
+32,False,0.01432585639556249,0.3463
+128,True,0.012202939989169439,0.3846

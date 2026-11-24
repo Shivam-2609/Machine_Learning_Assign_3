@@ -1,0 +1,31 @@
+{
+  "roll": "P26CS0009",
+  "seed": 260009,
+  "classifier_epochs": 8,
+  "memorize_epochs": 80,
+  "memorize_size": 1600,
+  "batch_size": 256,
+  "ae_epochs": 8,
+  "device": "cpu",
+  "cpu_threads": 8,
+  "python": "3.11.15",
+  "libraries": {
+    "torch": "2.6.0+cpu",
+    "torchvision": "0.21.0+cpu",
+    "numpy": "2.4.6",
+    "pandas": "3.0.5",
+    "scipy": "1.17.1",
+    "scikit-learn": "1.9.0",
+    "matplotlib": "3.11.1",
+    "joblib": "1.5.3",
+    "threadpoolctl": "3.6.0",
+    "ipython": "9.16.1",
+    "ipykernel": "7.3.0"
+  },
+  "q2_max_parameter_gap": 0.05,
+  "q2_prediction": "Shuffling pixels should reduce CNN accuracy more than MLP accuracy.",
+  "reproduce": [
+    "python -m pip install -r assignment3_outputs/requirements.txt",
+    "jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 \"ML_Assignment_3_P26CS0009*.ipynb\""
+  ]
+}
